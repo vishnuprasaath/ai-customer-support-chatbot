@@ -1,0 +1,130 @@
+NEUBAITICS TECH PRIVATE LIMITED - COMPANY KNOWLEDGE BASE
+=========================================================
+
+COMPANY OVERVIEW
+----------------
+Neubaitics Tech Private Limited is an Indian technology company specializing in Artificial Intelligence, Robotics, and the Internet of Things (IoT). The company is headquartered in Chennai, Tamil Nadu, with its registered office in Salem, Tamil Nadu, India. Neubaitics is an Anna University incubated startup, reflecting strong ties to academic research and innovation.
+
+The company's core mission is to bridge the gap between high-level AI research and real-world industrial applications. Neubaitics designs intelligent systems that don't just automate tasks — they understand environments and make autonomous decisions.
+
+Neubaitics operates as both an EdTech provider (training the next generation of AI engineers) and a Tech Solutions firm (building hardware and software for businesses).
+
+CONTACT INFORMATION
+-------------------
+Email: info@neubaitics.com
+Phone: +91-9791729777
+Website: https://www.neubaitics.com
+LinkedIn: https://www.linkedin.com/company/neubaitics
+Location: Chennai, Tamil Nadu, India (Registered: Salem, Tamil Nadu)
+
+SERVICES AND PRODUCTS
+---------------------
+
+1. AI VIDEO ANALYTICS
+Neubaitics offers advanced AI-powered video analytics solutions including:
+- Real-time face recognition and identification
+- Retail theft detection and prevention systems
+- Staff activity monitoring and analysis
+- Customer behavior analytics and footfall tracking
+- Anomaly detection in video streams
+- Integration with existing CCTV infrastructure
+
+2. GENERATIVE AI SOLUTIONS
+- Custom Large Language Model (LLM) training for enterprise use cases
+- AI chatbots for customer support automation
+- Automated report generation systems
+- Natural Language Processing pipelines
+- Document intelligence and extraction
+- AI-powered search systems
+
+3. ROBOTICS AND IoT
+- Industrial automation systems
+- Embedded systems development
+- Gesture-based interaction devices
+- Smart sensor integration
+- Edge AI deployment
+- Custom robotics for manufacturing
+
+4. RESEARCH AND TRAINING (EDTECH)
+- Educational programs in Artificial Intelligence
+- Machine Learning (ML) courses
+- Deep Learning (DL) certification programs
+- Hands-on project-based learning
+- Corporate AI training and upskilling
+- Internship programs for engineering students
+
+DOMAINS AND INDUSTRIES SERVED
+------------------------------
+
+RETAIL
+- Theft prevention using computer vision
+- Customer behavior and footfall analytics
+- Smart store monitoring systems
+- Queue management with AI
+- Product placement analytics
+
+MANUFACTURING
+- Predictive maintenance automation
+- Quality control robotics with vision AI
+- Assembly line monitoring
+- Defect detection using deep learning
+- Worker safety compliance monitoring
+
+HEALTHCARE
+- Smart patient monitoring systems
+- Gesture-based medical device interfaces
+- AI-assisted diagnostic tools
+- IoT health monitoring devices
+- Hospital workflow automation
+
+SMART CITIES
+- Crowd analytics for public safety
+- Traffic management using AI
+- Public surveillance intelligence
+- Emergency response optimization
+- Urban data collection and analysis
+
+PRICING INFORMATION
+-------------------
+Neubaitics offers flexible pricing tailored to project scope and business needs:
+
+- AI Video Analytics: Starting from ₹50,000/month for basic packages; custom enterprise pricing available
+- Generative AI Solutions: Project-based pricing; chatbot solutions start at ₹75,000 for setup + monthly maintenance
+- Robotics & IoT Projects: Custom quotes based on hardware and software requirements
+- Training Programs: Individual courses from ₹5,000; corporate batches from ₹25,000 per person
+- Internship Programs: Available for engineering students; stipend-based positions
+
+For accurate quotes, please contact the sales team with your specific requirements.
+
+ONBOARDING PROCESS
+------------------
+Step 1: Initial Consultation — Contact us via email or phone to discuss your requirements
+Step 2: Requirements Analysis — Our team conducts a detailed technical assessment
+Step 3: Proposal & Quote — We provide a customized solution proposal within 3-5 business days
+Step 4: Agreement & Kickoff — Sign the agreement and begin the project with a kickoff call
+Step 5: Development & Testing — Agile development with weekly progress updates
+Step 6: Deployment & Support — Go-live support and post-deployment maintenance
+
+TECHNICAL SUPPORT
+-----------------
+- Business Hours Support: Monday to Saturday, 9:00 AM to 6:00 PM IST
+- Emergency Support: Available for enterprise clients via dedicated helpline
+- Response Time: General queries within 24 hours; critical issues within 4 hours (enterprise)
+- Support Channels: Email, phone, WhatsApp, and ticketing system
+- Documentation: Full technical documentation provided for all products
+
+PARTNERSHIPS AND RECOGNITIONS
+------------------------------
+- Incubated by Anna University, Chennai
+- Recognized by Startup India initiative
+- Collaborations with leading research institutions
+- ISO-aligned quality processes in software development
+
+WHY CHOOSE NEUBAITICS
+-----------------------
+- Deep expertise in AI, ML, DL, and IoT domains
+- Academic research foundation ensures cutting-edge solutions
+- End-to-end solutions from research to deployment
+- Strong local support with global technology standards
+- Proven track record in retail, manufacturing, and healthcare
+- Flexible engagement models: project-based, retainer, and licensing

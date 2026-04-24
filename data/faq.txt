@@ -1,0 +1,66 @@
+NEUBAITICS TECH PRIVATE LIMITED - FREQUENTLY ASKED QUESTIONS (FAQ)
+====================================================================
+
+Q: What does Neubaitics do?
+A: Neubaitics Tech Private Limited is an AI, Robotics, and IoT company based in Chennai, India. We develop intelligent systems for industries like retail, manufacturing, healthcare, and smart cities. We also run educational and training programs in AI, ML, and Deep Learning. Our goal is to bridge the gap between academic AI research and real-world industrial applications.
+
+Q: Where is Neubaitics located?
+A: Neubaitics is headquartered in Chennai, Tamil Nadu, India, with its registered office in Salem, Tamil Nadu. We serve clients across India and are expanding internationally. You can reach us at info@neubaitics.com or visit www.neubaitics.com.
+
+Q: How can I contact Neubaitics?
+A: You can reach us through multiple channels:
+- Email: info@neubaitics.com
+- Phone: +91-9791729777
+- Website: https://www.neubaitics.com
+- We respond to all inquiries within 24 business hours.
+
+Q: What AI services does Neubaitics offer?
+A: We offer a wide range of AI services including: AI Video Analytics (face recognition, theft detection, behavior analytics), Generative AI Solutions (custom LLM training, chatbots, report automation), Robotics and IoT systems, and Research & Training programs. Each service is customized to your business needs.
+
+Q: Does Neubaitics build custom AI chatbots?
+A: Yes! We specialize in building custom AI chatbots for customer support automation, lead generation, and FAQ handling. Our chatbots use state-of-the-art Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) technology to provide accurate, context-aware responses. Chatbot solutions start at ₹75,000 for setup.
+
+Q: What industries does Neubaitics serve?
+A: We serve multiple industries including Retail (theft prevention, customer analytics), Manufacturing (predictive automation, quality control), Healthcare (smart monitoring, gesture interfaces), and Smart Cities (crowd analytics, public safety). We also work with educational institutions, logistics companies, and government agencies.
+
+Q: How much does it cost to hire Neubaitics?
+A: Our pricing depends on the project scope and requirements. AI Video Analytics packages start from ₹50,000 per month. Generative AI and chatbot solutions start at ₹75,000 for setup. Training programs start from ₹5,000 for individuals. We provide custom enterprise quotes after a free consultation. Contact us for a detailed proposal.
+
+Q: What is the onboarding process at Neubaitics?
+A: Our onboarding is simple and structured: (1) Initial consultation to understand your needs, (2) Detailed requirements analysis, (3) Custom proposal and quote within 3-5 business days, (4) Agreement signing and project kickoff, (5) Agile development with weekly updates, (6) Deployment and ongoing support. The process typically takes 1-2 weeks from first contact to project start.
+
+Q: Does Neubaitics offer training programs?
+A: Yes! We offer comprehensive training programs in Artificial Intelligence, Machine Learning, and Deep Learning. Individual course fees start from ₹5,000, and corporate batch training is available from ₹25,000 per person. We also offer internship programs for engineering students with stipend-based positions. Our programs are project-based and hands-on.
+
+Q: Does Neubaitics offer internship programs?
+A: Yes, Neubaitics actively recruits engineering interns, especially in AI, ML, computer vision, and embedded systems. Internships are stipend-based and include real project exposure. We are an Anna University incubated company with strong academic ties. Interested students can apply by sending their resume to info@neubaitics.com.
+
+Q: What is AI Video Analytics and how does it help my business?
+A: AI Video Analytics uses computer vision and deep learning to extract intelligent insights from video feeds. For retail, it helps detect theft, monitor staff productivity, and analyze customer behavior. For manufacturing, it enables quality control and worker safety monitoring. For smart cities, it provides crowd analytics and traffic management. It works with your existing CCTV infrastructure.
+
+Q: Can Neubaitics help with IoT projects?
+A: Absolutely. We design and deploy end-to-end IoT solutions including sensor integration, embedded systems development, edge AI deployment, and gesture-based interfaces. Our IoT solutions are widely used in manufacturing automation, healthcare monitoring, and smart building management. We handle both hardware and software aspects.
+
+Q: What is Generative AI and does Neubaitics work with it?
+A: Generative AI refers to AI systems that can generate text, images, code, and other content. Neubaitics specializes in enterprise Generative AI applications including custom LLM training on company data, AI-powered document processing, automated report generation, and conversational AI chatbots. We help businesses harness LLMs for real productivity gains.
+
+Q: How long does it take to complete a project?
+A: Project timelines vary based on complexity. A basic AI chatbot can be deployed in 2-4 weeks. A full AI video analytics system for a retail chain typically takes 6-10 weeks. Custom robotics or IoT projects can range from 8-16 weeks. We follow agile methodology with weekly progress updates throughout development.
+
+Q: Does Neubaitics provide post-deployment support?
+A: Yes, all our products come with post-deployment support. Business hours support is available Monday to Saturday from 9 AM to 6 PM IST. Enterprise clients get 24/7 emergency support with a 4-hour response SLA. We also provide full technical documentation and conduct knowledge transfer sessions with your team.
+
+Q: Is Neubaitics a recognized startup?
+A: Yes! Neubaitics is an Anna University incubated startup, which is a prestigious recognition in India's tech ecosystem. We are also recognized under the Startup India initiative and follow ISO-aligned quality processes. Our academic roots ensure we bring the latest research-backed solutions to our clients.
+
+Q: Can Neubaitics integrate AI with my existing systems?
+A: Yes, integration is a core strength at Neubaitics. We build AI solutions that seamlessly connect with your existing ERP, CRM, CCTV, or other software systems via APIs. We support cloud-based, on-premise, and hybrid deployments. Our team evaluates your existing infrastructure during the requirements phase to ensure smooth integration.
+
+Q: What technologies does Neubaitics use?
+A: We use industry-leading technologies including Python, TensorFlow, PyTorch, OpenCV for AI/ML. For generative AI, we work with LLMs, LangChain, FAISS, and Hugging Face. For IoT, we use Raspberry Pi, Arduino, NVIDIA Jetson, and various sensor platforms. Our cloud expertise includes AWS, Azure, and Google Cloud.
+
+Q: How do I get a quote for my project?
+A: Getting a quote is easy! Simply email us at info@neubaitics.com or call +91-9791729777 with a brief description of your project. Alternatively, use the contact form on our website at www.neubaitics.com. We schedule a free 30-minute consultation call to understand your requirements and provide a detailed proposal within 3-5 business days.
+
+Q: Does Neubaitics work with small businesses or only large enterprises?
+A: Neubaitics works with businesses of all sizes. We have tailored solutions for small businesses, medium enterprises, and large corporations. Our modular pricing ensures even startups and SMEs can access quality AI solutions. We believe every business deserves the power of AI, regardless of size.
